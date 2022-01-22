@@ -1,0 +1,54 @@
+{
+    "GamesPlayedOnMyPs4": [
+        {
+            "id": 1,
+            "platforms": "PC, Xbox, Ps4",
+            "realeasedatum": "2015-11-16",
+            "title": "Star wars Battlefront 1",
+            "genre": "sience fiction",
+            "price": 50.00,
+            "studio": "DICE",
+            "img": ""
+        },
+        {
+            "id": 2,
+            "platforms": "PC, Xbox, Ps4",
+            "realeasedatum": "2019",
+            "title": "Modern Warfare",
+            "genre": "First-person shooter",
+            "price": 69.00,
+            "studio": "Activision",
+            "img": ""
+        },
+        {
+            "id": 3,
+            "platforms": "Ps4",
+            "realeasedatum": "2018",
+            "title": "Spider-Man ps4",
+            "genre": "Fantasy",
+            "price": 21.00,
+            "studio": "insomniac",
+            "img": ""
+        },
+        {
+            "id": 4,
+            "platforms": "Ps4,Ps4",
+            "realeasedatum": "2020",
+            "title": "Spider-Man Miles Morales",
+            "genre": "Fantasy",
+            "price": 50.00,
+            "studio": "insomniac",
+            "img": ""
+        },
+        {
+            "id": 5,
+            "platforms": "PC, Xbox, Ps4",
+            "realeasedatum": "2020",
+            "title": "Cold War",
+            "genre": "First-person Shooter",
+            "price": 58.00,
+            "studio": "Activision",
+            "img": ""
+        }
+    ]
+}
